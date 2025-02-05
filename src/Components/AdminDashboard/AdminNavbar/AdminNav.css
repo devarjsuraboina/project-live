@@ -1,0 +1,34 @@
+.admin-image {
+    width: 40px; /* Adjust the size of the image */
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+
+  }
+
+  .admin-navs{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+
+
+  }
+
+  .admin-link{
+    color:white;
+    font-size: 26px;
+  }
+
+  .admin-hr{
+    background-color: aliceblue;
+    color: aliceblue;
+    background: white;
+    height: 6px;
+  }
+
+ 
+  

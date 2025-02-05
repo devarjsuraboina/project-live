@@ -1,0 +1,26 @@
+.update-form{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    background-color: aliceblue;
+    height: 80vh;
+    gap: 30px;
+}
+
+.form-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #334155;
+    height: 100vh;
+
+}
+@media(max-width:768px){
+    .form-container{
+        height: auto;
+    }
+    .update-form{
+        height: auto;
+    }
+}

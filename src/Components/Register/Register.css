@@ -1,0 +1,9 @@
+.register-page{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../Login/top-view-travel-kit-essentials.jpg');
+    background-size: cover;
+
+}

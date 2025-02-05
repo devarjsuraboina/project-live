@@ -1,0 +1,57 @@
+.admin-main{
+    background-color:white;
+}
+.admin-tours{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 15px;
+
+}
+.admin{
+    font-size:36px;
+    text-align: center;
+    font-family: "Bebas Neue", serif;
+    color: #5d6d7e;
+
+}
+.admin-head{
+    font-family: "Bebas Neue", serif;
+    color: #283747;
+    font-size: 28px;
+
+
+}
+
+.admin-tour-card{
+    display: flex;
+    justify-content: center;
+    width: 30%;
+    flex-direction: column;
+    background-color:white;
+    padding: 30px;
+    gap: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;};
+
+.admin-addimage{
+    height:250px;
+}
+
+.admin-edit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    font-size: 20px;
+}
+
+@media(max-width:768px){
+    .admin-tour-card{
+        width: 100%;
+    }
+}
+
+
+
