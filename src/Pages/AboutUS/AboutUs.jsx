@@ -4,8 +4,6 @@ import "./Abount.css"
 import tour1 from './tour1.jpg'
 import tour2 from './tour2.jpg'
 import tour3 from './tour3.jpg'
-import tour4 from './tour4.jpg'
-import tour5 from './tour5.jpg'
 import tour6 from './tour6.jpg'
 import tour7 from './tour7.jpg'
 import tour8 from './tour8.jpg'
