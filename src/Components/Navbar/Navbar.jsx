@@ -39,7 +39,7 @@ const Navbar = () => {
     <nav>
       <div className="logo">
         <a href="/" className="logo-style">
-          <h1 className="nav-head">SDR TRAVELS</h1>
+          <h1 className="nav-head">SDR1 TRAVELS</h1>
         </a>
       </div>
       <div className={click ? 'links active' : 'links'}>
